@@ -1,0 +1,3 @@
+# Project exclude paths
+/currency-exchange-service/${project.build.directory}/classes/
+/currency-exchange-service/${project.build.directory}/test-classes/
