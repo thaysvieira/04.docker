@@ -1,4 +1,4 @@
-##Docker
+## Docker
 
 Make sure you have a local Docker installed and running, then type:
 
